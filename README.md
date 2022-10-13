@@ -6,7 +6,7 @@
 ## Overview
 The purpose of this assignment was to create a bike sharing proposal by analysing bike riding data in NYC. Hopefully the proposal is enough to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+## Results
 
 ## Checkout Time for Users
 
