@@ -1,5 +1,5 @@
 
-[link to dashboard](https://public.tableau.com/app/profile/lauren.rishel/viz/bikesharing_16656254205720/Story1)
+[Link to Lauren's Dashboard](https://public.tableau.com/app/profile/lauren.rishel/viz/bikesharing_16656254205720/Story1)
 
 # bikesharing
 
